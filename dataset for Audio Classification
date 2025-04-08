@@ -1,0 +1,3 @@
+## 🎧 Dataset
+The dataset used in this project is [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html), which consists of 8,732 labeled sound excerpts (<=4s) of urban sounds from 10 classes.  
+Download it from the official source: [Download Dataset](https://zenodo.org/record/1203745)
